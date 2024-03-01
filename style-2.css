@@ -1,0 +1,79 @@
+h1 {
+  color: rgba(0, 139, 139, 1);
+  text-align: center;
+}
+
+body {
+  width: 900px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 0.005px;
+  margin: 20px auto;
+  background: rgba(135, 206, 235, 1);
+  box-shadow: 20px 20px 100px 0.005px rgb(0, 0, 0.15);
+}
+
+html {
+  background: white;
+}
+
+td {
+  border: 1px solid black;
+}
+
+.wider {
+  width: 110px;
+  border: 1px solid black;
+}
+
+#center {
+  text-align: center;
+  height: 27px;
+}
+
+tr {
+  height: 27px;
+}
+
+table {
+  border: 2px solid rgba(128, 128, 128, 1);
+  margin: auto;
+}
+
+.yellow {
+  color: rgba(255, 165, 0, 1);
+}
+
+.brown {
+  color: rgba(129, 0, 0, 1);
+}
+
+.light-brown {
+  color: rgba(165, 42, 42, 1);
+}
+
+.blue {
+  color: rgba(0, 0, 255, 1);
+}
+
+.red {
+  color: rgba(255, 0, 0, 1);
+}
+
+.pink {
+  color: rgba(255, 192, 203, 1);
+}
+
+.green {
+  color: rgba(0, 128, 0, 1);
+}
+
+.lunch {
+  writing-mode: vertical-lr;
+  letter-spacing: 5px;
+  text-orientation: upright;
+}
+
+a {
+  padding-left: 830px;
+}

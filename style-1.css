@@ -1,0 +1,39 @@
+body {
+  text-align: center;
+  width: 480px;
+  padding: 30px 40px;
+  margin: 20px auto;
+  border-radius: 60px;
+  background: rgba(12, 108, 157, 1);
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+html {
+  background: white;
+}
+
+hr {
+  width: 430px;
+  border: 1px solid white;
+}
+
+.x-img {
+  width: 120px;
+  padding-left: 65px;
+}
+
+.snap-img {
+  width: 120px;
+  padding-left: 90px;
+}
+
+.inst-img {
+  width: 120px;
+  padding-left: 65px;
+}
+
+.tt-img {
+  width: 120px;
+  padding-left: 90px;
+}
